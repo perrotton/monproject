@@ -15,7 +15,7 @@ body{
     bottom: 0;
     width: 100%;
     height: 100vh;
-    background: url('/Users/perrottoncharly/Desktop/site/hacker-capuchon-banner-fond-ecran-papier-peint_953789-577.jpg.avif') center center no-repeat;
+    background: url('hacker-capuchon-banner-fond-ecran-papier-peint_953789-577.jpg.avif') center center no-repeat;
     background-size: cover;
 z-index: -100;
 }
